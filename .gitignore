@@ -1,0 +1,9 @@
+# Ignorar pastas e arquivos pesados/desnecessários
+logs/
+__pycache__/
+*.pyc
+*.log
+*.sqlite
+*.db
+airflow-access-key.json
+.env
